@@ -19,6 +19,9 @@ let package = Package(
             dependencies: [
                 .product(name: "DivKit", package: "divkit-ios"),
                 .product(name: "DivKitExtensions", package: "divkit-ios")
+            ],
+            resources: [
+                .process("Content")
             ]
         ),
     ]
