@@ -1,4 +1,5 @@
 import DivKit
+import DivKitExtensions
 import SwiftUI
 
 public struct DivKitView: UIViewRepresentable {

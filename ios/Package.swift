@@ -17,7 +17,8 @@ let package = Package(
         .target(
             name: "Previews",
             dependencies: [
-                .product(name: "DivKit", package: "divkit-ios")
+                .product(name: "DivKit", package: "divkit-ios"),
+                .product(name: "DivKitExtensions", package: "divkit-ios")
             ]
         ),
     ]
