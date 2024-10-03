@@ -155,7 +155,6 @@
                                     },
                                     "text_variable": "toast_text",
                                     "font_size": 20,
-                                    "text_color": "#FFF",
                                     "paddings": {
                                         "top": 10,
                                         "left": 10,
